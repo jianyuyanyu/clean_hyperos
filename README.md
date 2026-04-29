@@ -481,7 +481,9 @@ adb shell cmd package install-existing com.xiaomi.account #小米账号
 
 adb shell cmd package install-existing com.miui.micloudsync #小米云同步
 
-adb shell cmd package install-existing com.xiaomi.xmsf #小米服务（微信消息、Mipush）
+adb shell cmd package install-existing com.xiaomi.xmsf #小米服务1（微信消息、Mipush）
+
+adb shell cmd package install-existing com.xiaomi.xmsfkeeper #小米服务2（微信消息、Mipush）
 
 adb shell cmd package install-existing com.miui.powerkeeper #电量和性能（智能杀后台应用，后台保活相关）
 
