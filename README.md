@@ -106,7 +106,7 @@ adb push ../android_backup/Files/铃声.zip /sdcard/Documents/
 adb push ../android_backup/Files/APK.zip /sdcard/Documents/
 ```
 
-（到文件里面解压 铃声.zip 到 铃声目录 ，APK.zip到本级目录； 设置铃声<电话铃声、通知铃声、关闭锁屏声>，设置触感大小，
+到文件里面解压 铃声.zip 到 铃声目录 ，APK.zip到本级目录； 设置铃声<电话铃声、通知铃声、关闭锁屏声>，设置触感大小。
 
 ## 16.1. 下载基础APK安装包：
 
@@ -123,19 +123,9 @@ adb push ../android_backup/Files/APK.zip /sdcard/Documents/
 >类原生桌面： https://lawnchair.app/ （需在该App设置里手动关闭软件禁用）
 > 
 >系统隐藏设置查找（Activity Launcher）： https://www.malavida.com/en/soft/activity-launcher/android/
-> 
+>
 
-也可以用本人提供的apk安装（在文件名中删掉.7z后缀就是.apk文件）：
-> https://github.com/fyonecon/android-clean_hyperos/releases
-
-免费VPN（300KB/s，下载有门槛）:
-> https://play.google.com/store/apps/details?id=free.key.vpn&hl=zh_CN
-
-）
-
-顺便关闭“com.miui.packageinstaller #应用包管理器”到广告和安全检测功能（关闭小米系统优化时无此功能）
-
-）
+顺便关闭“com.miui.packageinstaller #应用包管理器”到广告和安全检测功能（关闭小米系统优化时无此功能）。
 
 ## 17. 用 DevCheck 设置，（用此软件的目的是调出原生安卓设置。可选。）：
 ```
@@ -446,12 +436,12 @@ Google电话、Google短信、Google Photo、微信、Yahoo天气、windy、Oned
 - 关闭“系统优化”后，系统的动画和页面切换效果将变为安卓原生的，即使是60Hz，也比“小米自带动画特效”流畅很多，特别是在低端机上表现特别明显。
 
 ## 27. 如何更新手机系统自带Webview：
-- Libchecher -- 找到 webview -- 选择“打开Launch” -- 选择“Webview DevTools” -- 切换到“Home” -- 点击右上三角，选择"Check for Webview updates" -- 软件自动跳到Google Play商店，点击更新即可。
+- 打开LibChecker软件 -- 找到 webview -- 选择“打开Launch” -- 选择“Webview DevTools” -- 切换到“Home” -- 点击右上三角，选择"Check for Webview updates" -- 软件自动跳到Google Play商店，点击更新即可。
 - 如果你直接打开Google Play来更新Webview，除了安装 Webview Dev 版这个办法，是不能直接更新自系统带版的，所以只能按照上面步骤曲线更新Webview。
 
-## 28. 如何安装李跳跳（针对国产软件的快速跳过开屏广告等）：
-- 下载并安装李跳跳（下载后需删除.apk文件名后的所有后缀）：https://github.com/fyonecon/clean_hyperos/releases/download/HyperOS3-20260218/hello.litiaotiao.app.apk.7z
-- 打开李跳跳，不做任何操作 -- 回到桌面，并长按“李跳跳”图标调出“关于” -- 在“关于”软件界面的最底部有个“···”按钮，点击并允许（这是小米拦截了软件的辅助功能，需要手动允许） -- 进入手设置里的“辅助设置Accessibility” -- “通用” -- “已下载软件” -- 打开李跳跳即可。 
+## 28. 如何安装 李跳跳（针对国产软件的快速跳过开屏广告等）：
+- 下载：https://www.downkuai.com/android/144622.html ；
+- 安装、打开 李跳跳，不做任何操作 -- 回到桌面，并长按“李跳跳”图标调出“关于” -- 在“关于”软件界面的最底部有个“···”按钮，点击并允许（这是小米拦截了软件的辅助功能，需要手动允许） -- 进入手设置里的“辅助设置Accessibility” -- “通用” -- “已下载软件” -- 打开李跳跳即可。 
 
 ## 29. 最后，如果玩机玩累了，请转到其他家的手机。手机里面的小心思，就这样吧。
 
