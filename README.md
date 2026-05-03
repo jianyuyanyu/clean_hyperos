@@ -117,13 +117,17 @@ adb push ../android_backup/Files/APK.zip /sdcard/Documents/
 >DevCheck： https://www.ddooo.com/softdown/224201.htm 
 >
 >Edge浏览器： http://www.jxdown.com/soft/20238.html 
+> 
+> 三星浏览器： https://www.ddooo.com/softdown/149726.htm
 >
 >Gboard输入法： http://www.jxdown.com/soft/42906.html
 >
->类原生桌面： https://lawnchair.app/ （需在该App设置里手动关闭软件禁用）
+>类原生桌面： https://lawnchair.app/ （需在该App设置里手动关闭软件禁用才能设置默认桌面）
 > 
 >系统隐藏设置查找（Activity Launcher）： https://www.malavida.com/en/soft/activity-launcher/android/
 >
+> 谷歌相机： https://gcamapk.io/zh-CN/download-gcam-apk/
+> 
 
 顺便关闭“com.miui.packageinstaller #应用包管理器”到广告和安全检测功能（关闭小米系统优化时无此功能）。
 
