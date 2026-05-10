@@ -117,7 +117,9 @@ adb push ../android_backup/Files/APK.zip /sdcard/Documents/
 >DevCheck： https://www.ddooo.com/softdown/224201.htm 
 >
 >Edge浏览器： http://www.jxdown.com/soft/20238.html 
-> 
+>
+>Firefox浏览器： https://www.ddooo.com/softdown/189287.htm 
+>
 > 三星浏览器： https://www.ddooo.com/softdown/149726.htm
 >
 >Gboard输入法： http://www.jxdown.com/soft/42906.html
