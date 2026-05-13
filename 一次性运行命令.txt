@@ -148,7 +148,6 @@ adb shell pm uninstall --user 10 com.miui.backup;
 
 adb shell pm uninstall --user 10 com.android.mms;
 adb shell pm uninstall --user 10 com.xiaomi.market;
-adb shell pm uninstall --user 10 com.android.providers.downloads;
 adb shell pm uninstall --user 10 com.xiaomi.xmsfkeeper;
 adb shell pm uninstall --user 10 com.xiaomi.xmsf;
 adb shell pm uninstall --user 10 com.lbe.security.miui;
